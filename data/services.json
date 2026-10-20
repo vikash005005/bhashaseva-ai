@@ -1,0 +1,132 @@
+[
+  {
+    "name": "UP Scholarship",
+    "category": "Scholarship",
+    "region": "Uttar Pradesh",
+    "summary": "Online scholarship and fee reimbursement services for eligible students in Uttar Pradesh.",
+    "likely_eligibility": [
+      "The applicant should be studying in an eligible institution and course.",
+      "Income, category, domicile and academic conditions depend on the current scheme rules.",
+      "Final eligibility is decided by the competent department."
+    ],
+    "common_documents": [
+      "Aadhaar or accepted identity proof",
+      "Income certificate",
+      "Caste certificate, when applicable",
+      "Domicile or residence proof",
+      "Bank passbook",
+      "Previous marksheet",
+      "Current admission or fee receipt"
+    ],
+    "steps": [
+      "Open the official scholarship portal.",
+      "Read the current notification and eligibility rules.",
+      "Register or log in and fill the application carefully.",
+      "Upload or submit the requested documents.",
+      "Save the application number and track the status."
+    ],
+    "official_source": "https://scholarship.up.gov.in/"
+  },
+  {
+    "name": "Income Certificate",
+    "category": "Certificates",
+    "region": "Uttar Pradesh",
+    "summary": "A certificate issued by the competent authority to record a family's or applicant's income for eligible official purposes.",
+    "likely_eligibility": [
+      "The applicant should satisfy the residence and documentation requirements of the issuing authority.",
+      "The final document list and process can vary by district and service channel."
+    ],
+    "common_documents": [
+      "Identity proof",
+      "Address or residence proof",
+      "Photograph",
+      "Income-related declaration or supporting proof",
+      "Other documents requested by the authority"
+    ],
+    "steps": [
+      "Open the official e-District or citizen-service portal.",
+      "Choose the income certificate service.",
+      "Complete the form and attach the required documents.",
+      "Pay the applicable service fee, if shown by the portal.",
+      "Keep the application receipt for status tracking."
+    ],
+    "official_source": "https://edistrict.up.gov.in/"
+  },
+  {
+    "name": "Caste Certificate",
+    "category": "Certificates",
+    "region": "Uttar Pradesh",
+    "summary": "A certificate issued by the competent authority for eligible applicants belonging to a recognised category.",
+    "likely_eligibility": [
+      "The applicant must meet the applicable category and residence requirements.",
+      "The competent authority verifies the submitted records before issuance."
+    ],
+    "common_documents": [
+      "Identity proof",
+      "Residence proof",
+      "Photograph",
+      "Family or category supporting records",
+      "Self-declaration or other authority-specific documents"
+    ],
+    "steps": [
+      "Visit the official e-District or citizen-service portal.",
+      "Select the relevant caste certificate service.",
+      "Fill in the application with correct information.",
+      "Submit the required supporting documents.",
+      "Track the application using the receipt or application number."
+    ],
+    "official_source": "https://edistrict.up.gov.in/"
+  },
+  {
+    "name": "Old Age Pension",
+    "category": "Pension",
+    "region": "Uttar Pradesh",
+    "summary": "Social pension guidance for senior citizens who meet the applicable age, income, residence and other rules.",
+    "likely_eligibility": [
+      "Age, income and residence conditions apply.",
+      "The applicant must satisfy the latest rules shown by the social-welfare department.",
+      "Approval is subject to verification by the department."
+    ],
+    "common_documents": [
+      "Age proof",
+      "Identity proof",
+      "Residence proof",
+      "Income proof",
+      "Bank account details",
+      "Photograph"
+    ],
+    "steps": [
+      "Open the official social pension portal.",
+      "Review the current eligibility rules.",
+      "Complete the online application or visit an authorised service centre.",
+      "Submit the requested documents.",
+      "Save the registration details and check application status."
+    ],
+    "official_source": "https://sspy-up.gov.in/"
+  },
+  {
+    "name": "PM-KISAN",
+    "category": "Farmer Support",
+    "region": "India",
+    "summary": "A central government farmer-support service for beneficiaries who satisfy the current official eligibility and verification rules.",
+    "likely_eligibility": [
+      "The applicant must satisfy the current official beneficiary conditions.",
+      "Identity, land and bank information may be verified by the responsible authorities.",
+      "Exclusion conditions may apply."
+    ],
+    "common_documents": [
+      "Aadhaar or accepted identity information",
+      "Bank account details",
+      "Land-related records where required",
+      "Mobile number"
+    ],
+    "steps": [
+      "Open the official PM-KISAN portal.",
+      "Read the current eligibility and exclusion conditions.",
+      "Use the relevant farmer registration or status service.",
+      "Provide accurate details and complete required verification.",
+      "Check status only through the official portal or authorised channel."
+    ],
+    "official_source": "https://pmkisan.gov.in/"
+  }
+]

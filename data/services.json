@@ -1,132 +1,499 @@
 [
   {
     "name": "UP Scholarship",
-    "category": "Scholarship",
+    "category": "Education and Scholarships",
     "region": "Uttar Pradesh",
-    "summary": "Online scholarship and fee reimbursement services for eligible students in Uttar Pradesh.",
+    "target_beneficiary": "Students",
+    "key_benefits": "Fee reimbursement and monthly maintenance allowance for post-matric and pre-matric studies.",
+    "summary": "Online scholarship and fee reimbursement services for eligible students studying in recognized institutions in Uttar Pradesh.",
     "likely_eligibility": [
-      "The applicant should be studying in an eligible institution and course.",
-      "Income, category, domicile and academic conditions depend on the current scheme rules.",
-      "Final eligibility is decided by the competent department."
+      "The applicant must be a resident of Uttar Pradesh enrolled in a recognized school, college, or university.",
+      "Family annual income must be within government prescribed limits (normally up to ₹2 Lakhs for General/OBC/Minority, ₹2.5 Lakhs for SC/ST).",
+      "The student must have satisfactory attendance and valid academic enrollment in an eligible course."
     ],
     "common_documents": [
-      "Aadhaar or accepted identity proof",
-      "Income certificate",
-      "Caste certificate, when applicable",
-      "Domicile or residence proof",
-      "Bank passbook",
-      "Previous marksheet",
-      "Current admission or fee receipt"
+      "Aadhaar Card or accepted identity proof",
+      "Income Certificate issued by competent authority",
+      "Caste Certificate (for SC, ST, OBC applicants)",
+      "Domicile / Residence Certificate of Uttar Pradesh",
+      "Bank passbook linked to Aadhaar (active NPCI mapping)",
+      "Previous year academic marksheet",
+      "Current course fee receipt and admission enrollment number"
     ],
     "steps": [
-      "Open the official scholarship portal.",
-      "Read the current notification and eligibility rules.",
-      "Register or log in and fill the application carefully.",
-      "Upload or submit the requested documents.",
-      "Save the application number and track the status."
+      "Visit the official UP Scholarship portal (scholarship.up.gov.in).",
+      "Register under Student section (Pre-Matric, Post-Matric Inter, or Post-Matric Other than Inter).",
+      "Log in with your registration ID and fill in personal, academic, and bank information.",
+      "Upload mandatory scanned documents (photograph, certificates).",
+      "Submit the preliminary application, check the draft, and lock the final submission.",
+      "Print the final submission copy and submit it to your educational institution with document proofs."
     ],
     "official_source": "https://scholarship.up.gov.in/"
   },
   {
-    "name": "Income Certificate",
-    "category": "Certificates",
-    "region": "Uttar Pradesh",
-    "summary": "A certificate issued by the competent authority to record a family's or applicant's income for eligible official purposes.",
+    "name": "Mukhyamantri Medhavi Vidyarthi Yojana (MMVY)",
+    "category": "Education and Scholarships",
+    "region": "Madhya Pradesh",
+    "target_beneficiary": "Students",
+    "key_benefits": "Full government funding for undergraduate tuition fees at medical, engineering, law, and degree colleges.",
+    "summary": "Madhya Pradesh state government scheme that pays the complete academic fees of meritorious students who score high in 12th board exams.",
     "likely_eligibility": [
-      "The applicant should satisfy the residence and documentation requirements of the issuing authority.",
-      "The final document list and process can vary by district and service channel."
+      "Applicant must be a permanent resident of Madhya Pradesh.",
+      "Scored 70% or above in MP Board 12th exam, or 85% or above in CBSE/ICSE 12th exam.",
+      "Total annual family income must not exceed ₹6 Lakhs.",
+      "Secured admission in an eligible engineering (JEE rank under 1.5 Lakh), medical (NEET), law (CLAT), or recognized government degree course."
     ],
     "common_documents": [
-      "Identity proof",
-      "Address or residence proof",
-      "Photograph",
-      "Income-related declaration or supporting proof",
-      "Other documents requested by the authority"
+      "Samagra ID and Aadhaar Card",
+      "MP Domicile Certificate (Mool Niwas Praman Patra)",
+      "Income Certificate showing annual family income below ₹6 Lakhs",
+      "Class 10th and 12th marksheets",
+      "Entrance exam scorecard and allotment letter (JEE / NEET / CLAT)",
+      "College fee receipt and bank account linked to Aadhaar"
     ],
     "steps": [
-      "Open the official e-District or citizen-service portal.",
-      "Choose the income certificate service.",
-      "Complete the form and attach the required documents.",
-      "Pay the applicable service fee, if shown by the portal.",
-      "Keep the application receipt for status tracking."
+      "Open the MP State Scholarship 2.0 portal (scholarshipportal.mp.nic.in).",
+      "Register with your Samagra ID and create an applicant profile.",
+      "Choose Mukhyamantri Medhavi Vidyarthi Yojana (MMVY) from the scheme list.",
+      "Enter course admission details, entrance exam rank, and family income details.",
+      "Upload necessary verification certificates.",
+      "Submit the form online and submit a hard copy to your college nodal officer for verification."
     ],
-    "official_source": "https://edistrict.up.gov.in/"
+    "official_source": "https://scholarshipportal.mp.nic.in/"
   },
   {
-    "name": "Caste Certificate",
-    "category": "Certificates",
-    "region": "Uttar Pradesh",
-    "summary": "A certificate issued by the competent authority for eligible applicants belonging to a recognised category.",
+    "name": "National Means-cum-Merit Scholarship (NMMSS)",
+    "category": "Education and Scholarships",
+    "region": "All India",
+    "target_beneficiary": "Students",
+    "key_benefits": "Scholarship of ₹12,000 per annum (₹1,000/month) for classes IX to XII.",
+    "summary": "Centrally sponsored scholarship scheme to arrest the dropout rate of meritorious students from economically weaker sections at class VIII.",
     "likely_eligibility": [
-      "The applicant must meet the applicable category and residence requirements.",
-      "The competent authority verifies the submitted records before issuance."
+      "Student studying as regular student in Class IX in a Government, Local body or Government-aided school.",
+      "Must have scored at least 55% marks or equivalent grade in Class VIII examination (50% for SC/ST).",
+      "Parental annual income from all sources must not exceed ₹3,50,000 per annum.",
+      "Must clear the State level NMMSS selection test conducted at class VIII."
     ],
     "common_documents": [
-      "Identity proof",
-      "Residence proof",
-      "Photograph",
-      "Family or category supporting records",
-      "Self-declaration or other authority-specific documents"
+      "Aadhaar Card of student linked with bank account",
+      "Class VIII marksheet",
+      "Parental income certificate issued by competent authority",
+      "Caste certificate and disability certificate if applicable",
+      "School bonafide student certificate"
     ],
     "steps": [
-      "Visit the official e-District or citizen-service portal.",
-      "Select the relevant caste certificate service.",
-      "Fill in the application with correct information.",
-      "Submit the required supporting documents.",
-      "Track the application using the receipt or application number."
+      "Appear and qualify for the State Level NMMSS exam held in Class VIII.",
+      "After clearing, visit the National Scholarship Portal (scholarships.gov.in).",
+      "Register with Aadhaar and academic credentials on NSP.",
+      "Select National Means-cum-Merit Scholarship Scheme and fill application.",
+      "Verify details and submit for school and district level verification."
     ],
-    "official_source": "https://edistrict.up.gov.in/"
+    "official_source": "https://scholarships.gov.in/"
   },
   {
-    "name": "Old Age Pension",
+    "name": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+    "category": "Agriculture and Farmers",
+    "region": "All India",
+    "target_beneficiary": "Farmers",
+    "key_benefits": "Direct income support of ₹6,000 per year paid in three equal four-monthly installments of ₹2,000 each.",
+    "summary": "Central sector scheme providing income support to all landholding farmer families across India to meet agriculture and domestic needs.",
+    "likely_eligibility": [
+      "All landholding farmer families having cultivable landholding in their names.",
+      "Aadhaar authentication and e-KYC are mandatory.",
+      "Exclusions apply to institutional landholders, income tax payers, serving/retired government employees, and constitutional post holders."
+    ],
+    "common_documents": [
+      "Aadhaar Card linked to mobile number",
+      "Land ownership records (Khata/Khasra/Khatauni/ROR)",
+      "Bank account linked with Aadhaar with Direct Benefit Transfer (DBT) enabled",
+      "Mobile number for OTP authentication"
+    ],
+    "steps": [
+      "Visit the official PM-KISAN portal (pmkisan.gov.in).",
+      "Click on Farmers Corner and select New Farmer Registration.",
+      "Enter Aadhaar number and mobile number, verify with OTP.",
+      "Enter state, district, sub-district, village, and land record details.",
+      "Complete mandatory e-KYC using OTP or biometric verification at CSC.",
+      "Check payment and beneficiary status on the portal anytime."
+    ],
+    "official_source": "https://pmkisan.gov.in/"
+  },
+  {
+    "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "category": "Agriculture and Farmers",
+    "region": "All India",
+    "target_beneficiary": "Farmers",
+    "key_benefits": "Comprehensive crop insurance coverage against non-preventable natural risks at nominal premium rates (1.5% to 2% for food crops).",
+    "summary": "National crop insurance scheme providing financial support to farmers suffering crop loss or damage arising from natural calamities, pests and diseases.",
+    "likely_eligibility": [
+      "All farmers growing notified crops in notified areas, including sharecroppers and tenant farmers.",
+      "Both loanee and non-loanee farmers are eligible.",
+      "Must apply within the specified seasonal cut-off date for Kharif or Rabi crops."
+    ],
+    "common_documents": [
+      "Aadhaar Card",
+      "Land revenue records (ROR/Land Possession Certificate/Sowing Certificate)",
+      "Bank passbook showing active account details",
+      "Tenancy agreement/declaration if tenant farmer"
+    ],
+    "steps": [
+      "Visit the official PMFBY portal (pmfby.gov.in) or visit nearest bank/CSC/Agriculture office.",
+      "Register as farmer and select season (Kharif/Rabi) and notified crop.",
+      "Fill in survey number and sown area details.",
+      "Pay nominal premium online or through banking channel.",
+      "Obtain crop insurance policy receipt and policy number."
+    ],
+    "official_source": "https://pmfby.gov.in/"
+  },
+  {
+    "name": "Ayushman Bharat - PM-JAY",
+    "category": "Health",
+    "region": "All India",
+    "target_beneficiary": "Low Income Families & Seniors",
+    "key_benefits": "Cashless health insurance cover of up to ₹5 Lakh per family per year for secondary and tertiary care hospitalization.",
+    "summary": "World's largest government-funded health assurance scheme covering over 12 crore poor and vulnerable families across public and empanelled private hospitals, with Ayushman Vay Vandana card for seniors aged 70+.",
+    "likely_eligibility": [
+      "Families identified based on Socio-Economic Caste Census (SECC 2011) deprivation criteria or active NFSA ration card lists.",
+      "Senior citizens aged 70 and above are also covered under Ayushman Vay Vandana Card irrespective of income.",
+      "No cap on family size, age, or gender."
+    ],
+    "common_documents": [
+      "Aadhaar Card or valid Government photo identity proof",
+      "Ration Card / PM-JAY Family ID / Ration card linking family members",
+      "Active mobile number for verification"
+    ],
+    "steps": [
+      "Visit the official portal (beneficiary.nha.gov.in) or download Ayushman App.",
+      "Enter mobile number, choose Beneficiary, and verify with OTP.",
+      "Search family using State, Scheme (PM-JAY), District, and Ration Card / Aadhaar number.",
+      "Complete e-KYC using Aadhaar OTP or facial recognition.",
+      "Download and print the Ayushman Card (Golden Card) for instant cashless treatment."
+    ],
+    "official_source": "https://beneficiary.nha.gov.in/"
+  },
+  {
+    "name": "MGNREGA",
+    "category": "Employment",
+    "region": "All India",
+    "target_beneficiary": "Rural Workers",
+    "key_benefits": "Guaranteed 100 days of wage employment per financial year to rural adult household members willing to do unskilled manual work.",
+    "summary": "Flagship legal guarantee ensuring the right to work for rural households, providing statutory wages and unemployment allowances if work is not given within 15 days.",
+    "likely_eligibility": [
+      "Adult members of any rural household willing to do unskilled manual work.",
+      "Must reside within the local Gram Panchayat area.",
+      "Must be a citizen of India."
+    ],
+    "common_documents": [
+      "Aadhaar Card and proof of age",
+      "Proof of rural residence (Ration Card, Voter ID)",
+      "Joint/individual photograph of household adult members",
+      "Bank or Post Office savings account passbook"
+    ],
+    "steps": [
+      "Submit application to the local Gram Panchayat verbally or in writing.",
+      "Gram Panchayat verifies residence and issues a Job Card within 15 days.",
+      "Submit written application for work specifying the period and dates required.",
+      "The Panchayat assigns work within 15 days of application receipt.",
+      "Wages are transferred directly to bank account via DBT."
+    ],
+    "official_source": "https://nrega.nic.in/"
+  },
+  {
+    "name": "Prime Minister's Employment Generation Programme (PMEGP)",
+    "category": "Employment",
+    "region": "All India",
+    "target_beneficiary": "Entrepreneurs & Youth",
+    "key_benefits": "Credit-linked subsidy of 15% to 35% of project cost for setting up new micro-enterprises (up to ₹50 Lakh for manufacturing, ₹20 Lakh for services).",
+    "summary": "Credit-linked government subsidy scheme to generate self-employment opportunities through establishment of micro-enterprises in non-farm sector.",
+    "likely_eligibility": [
+      "Any individual above 18 years of age.",
+      "At least VIII standard pass for projects costing above ₹10 Lakh in manufacturing and ₹5 Lakh in service sector.",
+      "Self Help Groups, institutions registered under Societies Registration Act are also eligible."
+    ],
+    "common_documents": [
+      "Aadhaar Card and PAN Card",
+      "Detailed Project Report (DPR) of the proposed business",
+      "Special category certificate (SC/ST/OBC/Women/Ex-Servicemen) for higher subsidy",
+      "Education/qualification certificates and EDP training certificate"
+    ],
+    "steps": [
+      "Visit the KVIC PMEGP portal (kviconline.gov.in/pmegpeportal).",
+      "Click on Application for New Unit and fill personal and project details.",
+      "Select financing bank branch and upload DPR, Aadhaar, and category certificates.",
+      "Submit application; DLTFC reviews and forwards to the financing bank.",
+      "Bank sanctions loan; complete EDP training and receive government margin money subsidy."
+    ],
+    "official_source": "https://www.kviconline.gov.in/pmegpeportal/"
+  },
+  {
+    "name": "Sukanya Samriddhi Yojana (SSY)",
+    "category": "Women and Child Welfare",
+    "region": "All India",
+    "target_beneficiary": "Women & Girls",
+    "key_benefits": "High government small-savings interest rate (8.2%), Section 80C tax deduction, and complete tax exemption on interest and maturity.",
+    "summary": "Beti Bachao Beti Padhao initiative small-savings scheme to build a financial corpus for the higher education and marriage of girl children.",
+    "likely_eligibility": [
+      "Account can be opened by parent or legal guardian for a girl child from birth up to 10 years of age.",
+      "Only one account per girl child and maximum two accounts in a family (three in case of twins/triplets).",
+      "Minimum deposit ₹250 per year, maximum ₹1,50,000 per financial year."
+    ],
+    "common_documents": [
+      "Birth Certificate of the girl child",
+      "Identity and address proof of the guardian (Aadhaar, PAN, Voter ID)",
+      "Photographs of guardian and girl child"
+    ],
+    "steps": [
+      "Visit nearest Post Office or authorized commercial bank branch.",
+      "Fill Sukanya Samriddhi Account opening form (Form-1).",
+      "Attach girl child's birth certificate and guardian KYC documents.",
+      "Deposit initial amount (minimum ₹250).",
+      "Collect passbook containing account number and details."
+    ],
+    "official_source": "https://www.indiapost.gov.in/"
+  },
+  {
+    "name": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+    "category": "Women and Child Welfare",
+    "region": "All India",
+    "target_beneficiary": "Pregnant & Lactating Mothers",
+    "key_benefits": "Direct cash benefit of ₹5,000 in two installments for the first child, and ₹6,000 in one installment for second child if girl child.",
+    "summary": "Maternity benefit program compensating wage loss and improving health-seeking behavior and nutrition among pregnant and lactating mothers.",
+    "likely_eligibility": [
+      "Pregnant women and lactating mothers for first or second living child.",
+      "Must belong to socially/economically disadvantaged categories (e.g. SC/ST, women holding BPL ration cards, EWS, PMJAY beneficiaries).",
+      "Women in regular employment with Central/State Govt or PSUs are excluded."
+    ],
+    "common_documents": [
+      "Mother and husband's Aadhaar Card",
+      "Mother and Child Protection (MCP) Card with ANC registration dates",
+      "Aadhaar-seeded bank account details of beneficiary",
+      "Category or eligibility verification certificate (Ration card, EWS, etc.)"
+    ],
+    "steps": [
+      "Register pregnancy at nearest Anganwadi Centre (AWC) or approved health facility within 570 days of LMP.",
+      "Beneficiary can also self-register on the PMMVY portal (pmmvy.wcd.gov.in).",
+      "Fill Application Form 1A with MCP Card details and bank information.",
+      "Upload necessary verification documents.",
+      "Cash incentive is directly credited to beneficiary bank account via DBT."
+    ],
+    "official_source": "https://pmmvy.wcd.gov.in/"
+  },
+  {
+    "name": "Pradhan Mantri Awas Yojana (PMAY)",
+    "category": "Housing",
+    "region": "All India",
+    "target_beneficiary": "Low Income Families",
+    "key_benefits": "Financial assistance of ₹1.20 Lakh to ₹1.30 Lakh in rural areas, or interest subsidy up to ₹2.67 Lakh on home loans in urban areas.",
+    "summary": "Housing for All scheme providing pucca houses with basic amenities (water, sanitation, electricity) to homeless families and those living in kutcha or dilapidated houses.",
+    "likely_eligibility": [
+      "Families having no pucca house in their name anywhere in India.",
+      "Rural beneficiaries identified through SECC 2011 and Awas+ priority lists verified by Gram Sabha.",
+      "Urban beneficiaries categorized under EWS (income up to ₹3 Lakh), LIG (income up to ₹6 Lakh)."
+    ],
+    "common_documents": [
+      "Aadhaar Card of all household members",
+      "Bank passbook linked to Aadhaar (DBT active)",
+      "Land ownership/possession document or Patta",
+      "Income certificate and photograph of current dwelling"
+    ],
+    "steps": [
+      "For Rural (PMAY-G): Eligible families are enlisted by Gram Panchayat via Awas+ mobile app and geo-tagged.",
+      "For Urban (PMAY-U): Apply online at pmaymis.gov.in or nearest CSC under Citizen Assessment.",
+      "Enter Aadhaar number, personal details, current address, and bank account information.",
+      "Local municipality conducts physical inspection and verification.",
+      "Funds are released in geo-tagged construction stages directly to bank account."
+    ],
+    "official_source": "https://pmayg.nic.in/"
+  },
+  {
+    "name": "Old Age Pension (Vridhavastha Pension)",
     "category": "Pension",
     "region": "Uttar Pradesh",
-    "summary": "Social pension guidance for senior citizens who meet the applicable age, income, residence and other rules.",
+    "target_beneficiary": "Senior Citizens",
+    "key_benefits": "Monthly social pension of ₹1,000 (transferred quarterly as ₹3,000) directly into the beneficiary's bank account.",
+    "summary": "State social welfare pension providing financial dignity and security to destitute elderly citizens of Uttar Pradesh.",
     "likely_eligibility": [
-      "Age, income and residence conditions apply.",
-      "The applicant must satisfy the latest rules shown by the social-welfare department.",
-      "Approval is subject to verification by the department."
+      "Applicant must be a permanent resident of Uttar Pradesh aged 60 years or above.",
+      "Applicant must be living below the poverty line (annual family income up to ₹46,080 in rural areas and ₹56,460 in urban areas).",
+      "Applicant should not be receiving any other government pension."
     ],
     "common_documents": [
-      "Age proof",
-      "Identity proof",
-      "Residence proof",
-      "Income proof",
-      "Bank account details",
-      "Photograph"
+      "Age proof (Aadhaar Card, Voter ID, or Medical Age Certificate)",
+      "Income Certificate issued by competent Tehsil authority",
+      "Domicile / Residence Certificate of Uttar Pradesh",
+      "Bank passbook details with Aadhaar-seeded NPCI account",
+      "Passport size photograph"
     ],
     "steps": [
-      "Open the official social pension portal.",
-      "Review the current eligibility rules.",
-      "Complete the online application or visit an authorised service centre.",
-      "Submit the requested documents.",
-      "Save the registration details and check application status."
+      "Open the official UP Social Welfare Pension portal (sspy-up.gov.in).",
+      "Select Old Age Pension (वृद्धावस्था पेंशन) and click on Apply Online.",
+      "Select District, Tehsil, and rural/urban area, and enter personal details.",
+      "Enter bank account and income certificate application number and certificate ID.",
+      "Upload passport photograph and age/income proof documents.",
+      "Submit the final form, print acknowledgment, and track status with registration number."
     ],
     "official_source": "https://sspy-up.gov.in/"
   },
   {
-    "name": "PM-KISAN",
-    "category": "Farmer Support",
-    "region": "India",
-    "summary": "A central government farmer-support service for beneficiaries who satisfy the current official eligibility and verification rules.",
+    "name": "Atal Pension Yojana (APY)",
+    "category": "Pension",
+    "region": "All India",
+    "target_beneficiary": "Unorganized Sector Workers",
+    "key_benefits": "Guaranteed minimum monthly pension of ₹1,000, ₹2,000, ₹3,000, ₹4,000, or ₹5,000 per month after attaining 60 years of age.",
+    "summary": "Government-backed pension scheme aimed at creating a universal social security system for all Indians, especially the poor and unorganized sector workers.",
     "likely_eligibility": [
-      "The applicant must satisfy the current official beneficiary conditions.",
-      "Identity, land and bank information may be verified by the responsible authorities.",
-      "Exclusion conditions may apply."
+      "Any citizen of India between 18 and 40 years of age.",
+      "Must have a savings bank account linked with Aadhaar and mobile number.",
+      "Individuals who are income tax payers are not eligible to join APY."
     ],
     "common_documents": [
-      "Aadhaar or accepted identity information",
-      "Bank account details",
-      "Land-related records where required",
-      "Mobile number"
+      "Savings Bank account / Post Office account passbook",
+      "Aadhaar Card for identity and address verification",
+      "Mobile number for receiving regular transaction alerts"
     ],
     "steps": [
-      "Open the official PM-KISAN portal.",
-      "Read the current eligibility and exclusion conditions.",
-      "Use the relevant farmer registration or status service.",
-      "Provide accurate details and complete required verification.",
-      "Check status only through the official portal or authorised channel."
+      "Approach the bank branch or post office where you hold a savings bank account.",
+      "Fill the Atal Pension Yojana subscriber registration form.",
+      "Select monthly pension slab (₹1,000 to ₹5,000) and premium auto-debit frequency.",
+      "Provide nominee details and spouse information.",
+      "Ensure monthly balance for auto-debit; receive PRAN acknowledgment slip."
     ],
-    "official_source": "https://pmkisan.gov.in/"
+    "official_source": "https://www.npscra.nsdl.co.in/"
+  },
+  {
+    "name": "PM SVANidhi (Street Vendor's AtmaNirbhar Nidhi)",
+    "category": "Financial Assistance",
+    "region": "All India",
+    "target_beneficiary": "Street Vendors & Small Traders",
+    "key_benefits": "Affordable working capital collateral-free loan of ₹10,000 (1st tranche), ₹20,000 (2nd tranche), and ₹50,000 (3rd tranche) with 7% interest subsidy.",
+    "summary": "Central micro-credit scheme to empower street vendors and hawkers to resume their livelihoods and build credit history with cashback incentives for digital transactions.",
+    "likely_eligibility": [
+      "Street vendors engaged in vending in urban areas on or before March 24, 2020.",
+      "Possessing Certificate of Vending / Identity Card issued by Urban Local Bodies (ULBs).",
+      "Vendors from surrounding peri-urban/rural areas vending in geographic limits of ULBs with Letter of Recommendation (LoR)."
+    ],
+    "common_documents": [
+      "Aadhaar Card and mobile number linked with Aadhaar",
+      "Certificate of Vending (CoV) or Letter of Recommendation (LoR) from local body",
+      "Active savings bank account passbook"
+    ],
+    "steps": [
+      "Visit the official PM SVANidhi portal (pmsvanidhi.mohua.gov.in) or visit nearest CSC/bank.",
+      "Verify mobile number with OTP and check vendor survey status/LoR.",
+      "Fill online loan application form and select lending institution.",
+      "Upload Aadhaar and Certificate of Vending.",
+      "Lender processes and disburses loan amount directly to bank account within days."
+    ],
+    "official_source": "https://pmsvanidhi.mohua.gov.in/"
+  },
+  {
+    "name": "Pradhan Mantri Mudra Yojana (PMMY)",
+    "category": "Financial Assistance",
+    "region": "All India",
+    "target_beneficiary": "Micro Enterprises & Small Businesses",
+    "key_benefits": "Collateral-free institutional loans up to ₹10 Lakh in three categories: Shishu (up to ₹50,000), Kishore (₹50,000 to ₹5 Lakh), Tarun (₹5 Lakh to ₹10 Lakh).",
+    "summary": "Scheme providing funding to non-corporate, non-farm small/micro enterprises to start or expand business activities without pledging collateral.",
+    "likely_eligibility": [
+      "Any Indian citizen who has a business plan for a non-farm sector income generating activity.",
+      "Small manufacturing units, shopkeepers, fruit/vegetable vendors, artisans, and service sector units.",
+      "Applicant must not be a defaulter to any bank or financial institution."
+    ],
+    "common_documents": [
+      "Identity and residence proof (Aadhaar, Voter ID, Passport, PAN Card)",
+      "Proof of business address and enterprise registration certificate if applicable",
+      "Last 6 months bank statement",
+      "Quotations for machinery or items to be purchased"
+    ],
+    "steps": [
+      "Prepare a business proposal and identify loan category (Shishu, Kishore, Tarun).",
+      "Visit udyamimitra.in portal or approach any commercial bank, RRB, MFI, or NBFC.",
+      "Fill the Mudra loan application form with personal and business details.",
+      "Submit required KYC, business quotations, and financial documents.",
+      "Bank evaluates proposal and sanctions loan with Mudra Debit Card for working capital."
+    ],
+    "official_source": "https://www.mudra.org.in/"
+  },
+  {
+    "name": "Income Certificate (Aay Praman Patra)",
+    "category": "Certificates and Public Documents",
+    "region": "Uttar Pradesh",
+    "target_beneficiary": "Citizens",
+    "key_benefits": "Official legal document establishing family income required for scholarships, fee concessions, government welfare schemes, and subsidies.",
+    "summary": "A certificate issued by the Revenue Department / Sub-Divisional Magistrate verifying an individual's or family's annual income from all sources.",
+    "likely_eligibility": [
+      "The applicant must be a permanent resident of Uttar Pradesh.",
+      "The applicant or head of household must declare genuine income sources with supporting documentary evidence."
+    ],
+    "common_documents": [
+      "Aadhaar Card or voter ID card",
+      "Self-declaration certificate (Swaprameet Ghoshna Patra)",
+      "Salary slip / Form 16 / Agricultural land revenue receipt or municipal ward member report",
+      "Ration card or electricity bill for address verification",
+      "Passport size photograph"
+    ],
+    "steps": [
+      "Open the official UP e-District citizen portal (edistrict.up.gov.in) or visit Jan Seva Kendra (CSC).",
+      "Register as citizen on Citizen Service (eSathi) portal.",
+      "Select Revenue Department and choose Income Certificate (आय प्रमाण पत्र).",
+      "Fill applicant name, father/husband name, address, family members, and declared income.",
+      "Upload photograph, self-declaration form, and ration card.",
+      "Pay portal application fee (nominal ₹15) and note down the application number for status tracking."
+    ],
+    "official_source": "https://edistrict.up.gov.in/"
+  },
+  {
+    "name": "Caste Certificate (Jati Praman Patra)",
+    "category": "Certificates and Public Documents",
+    "region": "Uttar Pradesh",
+    "target_beneficiary": "SC / ST / OBC Citizens",
+    "key_benefits": "Official certificate certifying caste/category status for reservation in government jobs, education admissions, and welfare quotas.",
+    "summary": "Document issued by the competent revenue authority certifying that an applicant belongs to a recognized Scheduled Caste, Scheduled Tribe, or Other Backward Class.",
+    "likely_eligibility": [
+      "The applicant must be a resident of Uttar Pradesh belonging to a notified SC, ST, or OBC category.",
+      "For OBC non-creamy layer certificates, income criteria within the prescribed threshold must be verified."
+    ],
+    "common_documents": [
+      "Aadhaar Card and residence proof",
+      "Swaprameet Ghoshna Patra (Self-declaration form)",
+      "Caste proof of father or family member (prior caste certificate or land record mentioning caste)",
+      "Passport size photograph"
+    ],
+    "steps": [
+      "Visit the UP e-District or eSathi portal (edistrict.up.gov.in).",
+      "Select Caste Certificate service (Separate options for Hindi / English certificate).",
+      "Fill in applicant details, caste, sub-caste, and permanent address.",
+      "Upload passport photograph, self-declaration, and family caste proof.",
+      "Pay standard processing fee and submit.",
+      "Lekhpal and Tehsildar conduct inquiry and issue digitally signed certificate within 15-20 days."
+    ],
+    "official_source": "https://edistrict.up.gov.in/"
+  },
+  {
+    "name": "Domicile / Residence Certificate (Niwas Praman Patra)",
+    "category": "Certificates and Public Documents",
+    "region": "Uttar Pradesh",
+    "target_beneficiary": "Citizens",
+    "key_benefits": "Conclusive legal proof of permanent residence required for state quota admissions, government jobs, and regional welfare benefits.",
+    "summary": "Official certificate issued by the Revenue Department validating that an applicant is a permanent bona fide resident of the state.",
+    "likely_eligibility": [
+      "The applicant must have resided continuously in Uttar Pradesh for a minimum of 3 years, or be born in UP.",
+      "Must possess valid local address proof."
+    ],
+    "common_documents": [
+      "Aadhaar Card or Voter ID card",
+      "Self-declaration certificate",
+      "Electricity bill, water bill, or registered rent/house deed",
+      "School leaving certificate or educational records proving duration of stay in UP",
+      "Passport size photograph"
+    ],
+    "steps": [
+      "Visit the UP e-District / eSathi portal (edistrict.up.gov.in).",
+      "Select Niwas Praman Patra (निवास प्रमाण पत्र) from the service catalogue.",
+      "Enter personal particulars, duration of residence at current address, and reason for application.",
+      "Upload photo, self-declaration, and residence proof documents.",
+      "Submit the form and pay portal fees.",
+      "Download digitally signed certificate upon approval by Tehsildar."
+    ],
+    "official_source": "https://edistrict.up.gov.in/"
   }
 ]
